@@ -1,11 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23797
-Fork on GitHub8156
-<h1 align="center">Hi 👋, I'm Dimitrios Kasderidis</h1>
+<h1 align="center">Hi there, I'm Dimitrios Kasderidis</h1>
 <h3 align="center">Cybersecurity Engineer from Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
